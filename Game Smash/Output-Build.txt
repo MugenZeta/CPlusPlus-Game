@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Game Smash, Configuration: Debug Win32 ------
+1>  Game.cpp
+1>  Game Smash.vcxproj -> C:\Users\student0035\documents\visual studio 2013\Projects\Game Smash\Debug\Game Smash.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
